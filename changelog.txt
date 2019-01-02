@@ -2,3 +2,5 @@ v1.0.0
 - Initial release
 v1.1.0
 - Added VSTREAM addon
+v1.1.4
+- Added Netflix addon
