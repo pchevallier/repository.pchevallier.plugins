@@ -4,3 +4,5 @@ v1.1.0
 - Added VSTREAM addon
 v1.1.4
 - Added Netflix addon
+v1.1.5
+- removed plugins directory for python3 support
