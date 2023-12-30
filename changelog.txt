@@ -6,3 +6,5 @@ v1.1.4
 - Added Netflix addon
 v1.1.5
 - removed plugins directory for python3 support
+v1.1.6
+- new repository structure
